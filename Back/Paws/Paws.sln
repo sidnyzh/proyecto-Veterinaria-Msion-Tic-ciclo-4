@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paws", "Paws\Paws.csproj", "{82BB2C12-E9B2-4C35-BFB5-3FF3085013F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Services", "1.Services", "{A4BFA7F9-BBB5-49FF-82EC-904E366AE937}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Application", "2.Application", "{3B97CF9B-F72A-404D-B962-4A2A05A4ACAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Domain", "3.Domain", "{4D503E85-CECB-4C3D-8758-B537CEC9EEF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82BB2C12-E9B2-4C35-BFB5-3FF3085013F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BB2C12-E9B2-4C35-BFB5-3FF3085013F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BB2C12-E9B2-4C35-BFB5-3FF3085013F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BB2C12-E9B2-4C35-BFB5-3FF3085013F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{82BB2C12-E9B2-4C35-BFB5-3FF3085013F2} = {A4BFA7F9-BBB5-49FF-82EC-904E366AE937}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F77BD6F-5C0A-4A02-AB96-BE98C99E6641}
+	EndGlobalSection
+EndGlobal
